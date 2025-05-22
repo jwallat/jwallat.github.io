@@ -8,9 +8,10 @@ date: 2022-04-01
 location: "Hannover, Germany"
 ---
 
-Teachers Assistant in the master's course Foundations of Information Ethics. 
+Teachers Assistant in the master's course Foundations of Information Ethics.
 
 Topics:
+
 * Principles and Concepts of Information Ethics
 * Human Rights and Information Ethics
 * Privacy

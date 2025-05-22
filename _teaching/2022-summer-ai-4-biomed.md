@@ -8,9 +8,10 @@ date: 2022-06-26
 location: "Hannover, Germany"
 ---
 
-Student Ambassador and participant at the [AI for Biomedicine Summer School](https://leibniz-ai-lab.de/?etn=etnsummer-school-ai-for-bio-medicine-2022-07-01). 
+Student Ambassador and participant at the [AI for Biomedicine Summer School](https://leibniz-ai-lab.de/?etn=etnsummer-school-ai-for-bio-medicine-2022-07-01).
 
 Topics:
+
 * NLP models and their Biomedical applications
 * RNA Biology and Sequencing
 * Biobanking

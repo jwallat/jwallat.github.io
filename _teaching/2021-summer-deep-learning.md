@@ -8,9 +8,10 @@ date: 2021-04-01
 location: "Hannover, Germany"
 ---
 
-Teachers Assistant in the master's course Deep Learning. 
+Teachers Assistant in the master's course Deep Learning.
 
 Topics:
+
 * Basics of Neural Networks
 * Optimization
 * Deep Neural Networks
