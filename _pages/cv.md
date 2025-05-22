@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
+
 * B.S. in Computer Science, Leibniz University Hannover, 2017
 * M.S. in Computer Science, Leibniz University Hannover, 2020
-* Ph.D in Interpretable AI, Leibniz University Hannover, 2024/2025 (expected)
+* Ph.D in Interpretable AI, Leibniz University Hannover, 2025 (expected)
 
 Work experience
 ======
-* October 2020-now: Researcher/PhD Student 
+
+* October 2020-now: Researcher/PhD Student
   * L3S Research Center Hannover
   * Tasks: Research, teaching, student supervision, proposal writing
   * Supervisors: Prof. Avishek Anand (TU Delft), Prof. Wolfgang Nejdl (L3S, Uni Hannover)
@@ -30,13 +32,14 @@ Work experience
   * Tasks included: Enterprise Java Development
   * Supervisor: Dr. Karl-Ingo Friese
 
-* 2016-2018 (18 months, part-time): Research Assistant 
+* 2016-2018 (18 months, part-time): Research Assistant
   * Department of Software Engineering, Leibniz University Hannover
   * Tasks included: Investigating communication behavior and its effects on project success
   * Supervisor: Dr. Jil Klünder
   
 Skills
 ======
+
 * Python
 * Pytorch
 * Pytorch Lightning
@@ -47,6 +50,7 @@ Skills
 
 Publications
 ======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -59,6 +63,7 @@ Publications
   
 Teaching
 ======
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
