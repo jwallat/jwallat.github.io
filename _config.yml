@@ -13,7 +13,7 @@ title                    : "Jonas Wallat"
 title_separator          : "-"
 name                     : &name "Jonas Wallat"
 description              : &description "PhD Student at L3S Research Center Hannover"
-url                      : https://jwallat.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://wallat.xyz # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwallat.github.io"
 
