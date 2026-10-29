@@ -1,39 +1,41 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
-modified: 2016-06-06
+title: "Privacy Policy"
+modified: 2026-10-29
 ---
 
 {% include base_path %}
-{% include toc %}
 
-## Privacy Policy
+## Controller
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Jonas Wallat  
+Annenstraße 6  
+30171 Hannover  
+Germany  
+E-Mail: [jonas.wallat@l3s.de](mailto:jonas.wallat@l3s.de)
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+## In short
 
-### Log Files
+This is a personal academic website. It does **not** use cookies, analytics or tracking, and it has no comment function or contact forms. The only personal data processed is what your browser necessarily sends when loading the pages, as described below.
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+## Hosting (GitHub Pages)
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+This website is hosted on GitHub Pages, a service of GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. When you visit, GitHub processes your IP address and technical request data (for example date and time, requested page, browser type) in order to deliver the site and keep it secure. GitHub may store this data in server logs; I have no access to these logs.
 
-All of this information is not linked to anything that is personally identifiable.
+The legal basis is Art. 6(1)(f) GDPR; my legitimate interest is the reliable delivery of this website. GitHub, Inc. is certified under the EU-U.S. Data Privacy Framework, on which the transfer to the USA is based (Art. 45 GDPR). For details, see the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
-### Cookies and Web Beacons
+## MathJax (jsDelivr)
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+To display mathematical formulas correctly, pages load the MathJax script from the public content delivery network jsDelivr (`cdn.jsdelivr.net`). Your browser connects to this server directly, which transmits your IP address and technical request data to the provider. See the [jsDelivr privacy policy](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net).
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+The legal basis is Art. 6(1)(f) GDPR; my legitimate interest is the correct display of the site's content.
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+## External links
 
-#### Google Analytics
+This site links to external profiles and services (for example Google Scholar, GitHub, LinkedIn). No data is transferred to them unless you click such a link; after that, the privacy policy of the respective provider applies.
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+## Your rights
+
+You have the right to access (Art. 15 GDPR), rectification (Art. 16), erasure (Art. 17), restriction of processing (Art. 18), data portability (Art. 20) and to object to processing (Art. 21). To exercise these rights, contact me at the e-mail address above.
+
+You also have the right to lodge a complaint with a data protection supervisory authority (Art. 77 GDPR), in particular in the EU member state of your habitual residence.

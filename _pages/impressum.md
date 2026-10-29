@@ -6,7 +6,7 @@ modified: 2026-03-10
 
 {% include base_path %}
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
 **Jonas Wallat**  
 Annenstraße 6
